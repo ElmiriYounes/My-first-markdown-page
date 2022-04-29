@@ -1,6 +1,6 @@
 # EL MIRI YOUNES / En formation chez BECODE
 
-# * Qui suis-je
+#  Qui suis-je
 Je m'appelle El miri Younes, j'ai 31 ans, je suis marié et j'ai 2 enfants.   
 J'aime faire des balades en motos, jouer au football ainsi qu'aux jeux vidéo :grinning:.   
 Le codage est une de mes passions !   
