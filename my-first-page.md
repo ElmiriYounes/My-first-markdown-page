@@ -1,9 +1,9 @@
 <style>
-.gg{
+gg{
 color:blue
 }
 </style>
 
-<h1 id="identifier" class="gg">
+<gg>
 test
-</h1>
+</gg>
