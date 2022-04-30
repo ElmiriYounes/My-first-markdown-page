@@ -9,8 +9,8 @@ Le codage web est une de mes passions.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="Javascript png" style="width: 200px" />
 
 ## Les 3 choses que j'aimerais avoir dans le monde
-* Devenir un pro du développement web :sunglasses:
-* Vivre à Dubaï 
+* Devenir un pro du développement web
+* Vivre à Dubaï :sunglasses:
 * Voir mes enfants grandir
 ## Les objectifs que j'aimerais atteindre via Becode
 - Maitriser les langages HTML, CSS et Javascript
