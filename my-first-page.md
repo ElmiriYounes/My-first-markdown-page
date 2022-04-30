@@ -30,4 +30,4 @@ La mort de mon grand père
 3. La motivation
 
 # mon gif favori?
-![this is an image](images/buisson.gif)
+![this is an image](https://c.tenor.com/_IT4iiUqkw4AAAAC/homer-simpson-les-simpson.gif)
